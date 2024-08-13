@@ -1,4 +1,4 @@
-#DESAFIO ALURA LANDGIN PAGE METEORA
+#DESAFIO ALURA LANDING PAGE METEORA
 
 ![image](https://github.com/user-attachments/assets/07bae4f0-78ad-49fd-ba9b-1f127d98e8dd)
 
