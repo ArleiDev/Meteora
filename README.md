@@ -1,6 +1,7 @@
 #DESAFIO ALURA LANDGIN PAGE METEORA
 
-![image](https://github.com/user-attachments/assets/a30cb68a-3160-4f50-b7e3-b7d41db1ff5c)
+![image](https://github.com/user-attachments/assets/07bae4f0-78ad-49fd-ba9b-1f127d98e8dd)
+
 
 
 
