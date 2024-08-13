@@ -23,9 +23,9 @@ const Banner = () => {
   }, [images.length]);
 
   return (
-    <div className="relative w-full overflow-hidden">
+    <div className="relative w-full overflow-hidden ">
       <div
-        className="flex transition-transform duration-500 ease-in-out"
+        className="mt-14 flex transition-transform duration-500 ease-in-out " 
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
       >
         {images.map((image, index) => (
