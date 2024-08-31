@@ -55,8 +55,8 @@ function HighProducts() {
 
 
   return (
-    <div className="Highproducts mb-16">
-        <div className='mt-16 mb-16 text-3xl flex  justify-center'>Produtos que estão bombando!</div>
+    <div  className="Highproducts mb-16">
+        <div  className='mt-16 mb-16 text-3xl flex  justify-center'><h1 id='HighProducts'>Produtos que estão bombando!</h1></div>
         <div className="Cards flex flex-wrap  justify-center gap-16 ">
                 {products.map((product, index) => (
                     <ProductCard 

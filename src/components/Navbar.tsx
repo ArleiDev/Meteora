@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import Logo from '../../public/Logo desktop.png'
+import HighProducts from './HighProducts';
 import { useState } from 'react';
 
 
@@ -19,7 +20,7 @@ const Navbar = () => {
   return (
     <nav className="bg-black p-2 fixed z-20  w-screen sm:w-full">
       <div className="px-20 flex justify-between items-center">
-        <div className="flex items-center space-x-6">
+        <div className="flex items-center space-x-6 ">
           <Link href="/">
             <Image alt="logo" src={Logo} />
           </Link>
@@ -30,7 +31,7 @@ const Navbar = () => {
             <Link href="/nossas-lojas">
               <p className="text-gray-300 hover:text-primary-yellow">Nossas Lojas</p>
             </Link>
-            <Link href="/novidades">
+            <Link href="#HighProducts">
               <p className="text-gray-300 hover:text-primary-yellow">Novidades</p>
             </Link>
             <Link href="/promocoes">
